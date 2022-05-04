@@ -1,7 +1,3 @@
-# Renault-Twizy-Cup-Holder
-A removable cup holder for the Renault Twizy
-
-
 # Renault Twizy Cup Holder
 ## Overview
 This project provides a removable cup holder and box for the Renault Twizy.  The holder is designed to fit to the side of the driver's chair and can be used on either side or both sides at once as required.  The holders are removable to enable them to be stored if a passenger needs the space around the driver's seat.
